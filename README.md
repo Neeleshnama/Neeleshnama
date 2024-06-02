@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Neelesh Nama</h1>
 <h3 align="center">A passionate frontend and backend developer And Data Analyst from India</h3>
-add Right Gif Image
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fsustainability-through-green-coding-software-development-smartlogiq&psig=AOvVaw1Hyl_iRabOOfgWhYW58ti4&ust=1707914552109000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJjDv9mrqIQDFQAAAAAdAAAAABAD">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=neeleshnama&label=Profile%20views&color=0e75b6&style=flat" alt="neeleshnama" /> </p>
+<img align="center" alt="Coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952hq8xkevwkgxfkfpi8u3pf2lxt0tm37qeiofxlb38&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neeleshnama" alt="neeleshnama" /></a> </p>
 
